@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyper Transfer Markup Language",
+      "None of the above"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which language is used for styling web pages?",
+    "options": ["HTML", "CSS", "JavaScript", "Python"],
+    "answer": "CSS"
+  },
+  {
+    "question": "Which is not a JavaScript Framework?",
+    "options": ["React", "Angular", "Django", "Vue"],
+    "answer": "Django"
+  },
+  {
+    "question": "Which company developed JavaScript?",
+    "options": ["Netscape", "Google", "Microsoft", "Sun Microsystems"],
+    "answer": "Netscape"
+  },
+  {
+    "question": "Which HTML tag is used to define an internal stylesheet?",
+    "options": ["<css>", "<style>", "<script>", "<link>"],
+    "answer": "<style>"
+  }
+]
